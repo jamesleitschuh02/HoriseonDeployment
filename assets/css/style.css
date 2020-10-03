@@ -60,6 +60,7 @@ body {
     background-position: center;
 }
 
+/* Specification for the right column, floating it on the right of the webpage*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -98,6 +99,7 @@ body {
     margin-left: 25px;
 }
         
+/*Left column of the webpage, 3 seperate sections listed from top - down*/
 .content {
     width: 75%;
     display: inline-block;
